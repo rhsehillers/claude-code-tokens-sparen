@@ -12,10 +12,13 @@ Von René Hillers, [rhse.de](https://rhse.de/) – Software-Entwicklung & KI-Aut
 
 ## So benutzt du die Anleitungen
 
-1. Lade die Datei `anleitungen/01-rollen-und-modelle.md` herunter.
-2. Gib sie deinem Claude (in den Chat ziehen oder den Pfad nennen) und schreib:
-   „Lies sie ganz und geh sie Schritt für Schritt mit mir durch.“
+1. Lade das ganze Repository herunter: oben auf **Code** → **Download ZIP**, dann entpacken.
+2. Gib deinem Claude den Pfad zu `anleitungen/01-rollen-und-modelle.md` (oder zieh die Datei in den Chat) und
+   schreib: „Lies sie ganz und geh sie Schritt für Schritt mit mir durch.“
 3. Später dasselbe mit `anleitungen/02-wissen-in-dateien.md`.
+
+Die Vorlagen im Ordner `vorlagen/` musst du nicht selbst anfassen. Die Anleitungen verweisen darauf, und Claude
+nimmt sie an der passenden Stelle. Deshalb das ganze Repository herunterladen, nicht nur eine Datei.
 
 Claude ändert nichts, bevor du zu der jeweiligen Änderung Ja gesagt hast. Das steht in beiden Anleitungen ganz
 oben. Programmierkenntnisse brauchst du nicht, aber du solltest Claude Code schon benutzen.

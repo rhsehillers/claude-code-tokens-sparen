@@ -12,10 +12,13 @@ By René Hillers, [rhse.de](https://rhse.de/) - software development and AI auto
 
 ## How to use it
 
-1. Download `anleitungen/01-rollen-und-modelle.md`.
-2. Give it to your Claude (drag it into the chat or name the path) and write:
+1. Download the whole repository: **Code** → **Download ZIP**, then unzip it.
+2. Give your Claude the path to `anleitungen/01-rollen-und-modelle.md` (or drag the file into the chat) and write:
    "Read it fully and walk me through it step by step."
 3. Later, the same with `anleitungen/02-wissen-in-dateien.md`.
+
+You don't need to touch the templates in `vorlagen/` yourself. The guides point to them and Claude uses them at the
+right step. That is why you download the whole repository, not just one file.
 
 Claude changes nothing before you have said yes to that change. Both guides say so at the top.
 
