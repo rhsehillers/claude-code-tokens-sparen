@@ -1,6 +1,6 @@
 # Claude Code: Tokens sparen und das Wochenlimit seltener erreichen
 
-Claude-Wochenlimit erreicht – was tun? Meist liegt es nicht an zu viel Arbeit, sondern daran, wie gearbeitet wird:
+Claude-Wochenlimit erreicht, was tun? Meist liegt es nicht an zu viel Arbeit, sondern daran, wie gearbeitet wird:
 lange Chats, viele Bilder im Hauptchat und Opus für jede Kleinigkeit. Dieses Repository enthält zwei Anleitungen,
 die du deinem eigenen Claude gibst. Claude geht sie dann Schritt für Schritt mit dir durch: erst messen, dann
 gezielt ändern, nach einer Woche wieder messen.
@@ -8,7 +8,7 @@ gezielt ändern, nach einer Woche wieder messen.
 Kostenlos, für Privatnutzer und Solo-Selbstständige mit Claude Pro oder Max, die Claude Code im Terminal, in der IDE
 oder im Code-Tab von Claude Desktop nutzen (Windows oder Mac).
 
-Von René Hillers, [rhse.de](https://rhse.de/) – Software-Entwicklung & KI-Automatisierung.
+Von René Hillers, [rhse.de](https://rhse.de/), Software-Entwicklung und KI-Automatisierung.
 
 ## So benutzt du die Anleitungen
 
@@ -120,7 +120,7 @@ vorlagen/
 
 ## Über den Autor
 
-René Hillers – [rhse.de](https://rhse.de/), Software-Entwicklung & KI-Automatisierung. Über 25 Jahre
+René Hillers, [rhse.de](https://rhse.de/), Software-Entwicklung und KI-Automatisierung. Über 25 Jahre
 Softwareentwicklung; heute baut er mit Coding-Agenten und einem eigenen Multi-Agent-System.
 [Referenzen](https://rhse.de/referenzen)
 
